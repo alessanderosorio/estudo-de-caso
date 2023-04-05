@@ -12,4 +12,4 @@ Como guia da leitura e estudo do artigo foi utilizado o protocolo RODA. Este pro
 
 
 
-Por motivos éticos os dados dos alunos estão descategorizados, não há identificação dos respondentes. 
+Por motivos éticos os dados dos alunos estão descategorizados, não há identificação dos respondentes tanto nos formulários (arwuivos PDF) quanto nos dados (arquivos xlsx)
